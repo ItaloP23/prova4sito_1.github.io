@@ -30,14 +30,16 @@ disqusShortname = "bento-hugo-theme"
 [params]
   # Show intro in the home page (with headline and description) file intro.html
   intro = true
-  headline = "This is a headline"
+  headline = "This is a headline cambiami in config.toml"
   description = "A minimalist theme for Hugo, build with Tailwind CSS."
 
   # Copyright note in the footer
   copyright = "Copyright © 2020 Italo"
 
   # Image in the homepage. You can setup a different image for social media
-  cover = "images/vancouver.jpg"
+  # cover = "images/vancouver.jpg" (originale)
+  cover = "images/granParadiso.jpg"
+
   ogImage = "images/og_image.jpg"
 
   # Social media usernames
@@ -54,7 +56,8 @@ disqusShortname = "bento-hugo-theme"
   # productionBaseUrl = "https://yourwebsite.com"
 
   # Avatar (shown in the homepage)
-  avatar = "images/avatar.jpg"
+  # avatar = "images/avatar.jpg"
+  avatar = "images/avatar1.jpg"
   # Bio is shown in the end of posts
   authorBio = "Bento is a doggo who likes to code."
 
