@@ -30,7 +30,7 @@ disqusShortname = "bento-hugo-theme"
 [params]
   # Show intro in the home page (with headline and description) file intro.html
   intro = true
-  headline = "This is a headline cambiami in config.toml-prova cambio nome repo"
+  headline = "This is a headline cambiami in config.toml-prova cambio nome repo-"
   description = "A minimalist theme for Hugo, build with Tailwind CSS."
 
   # Copyright note in the footer
