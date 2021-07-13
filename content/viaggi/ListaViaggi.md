@@ -4,7 +4,7 @@ date: 2020-12-08T09:41:18+01:00
 draft: false
 type: pippo
 ---
-Racconti dei viaggi effettuati
+Racconti dei viaggi effettuati, un elenco:
 
 
 1. [Santiago 2014]({{< ref "/viaggi/Santiago2014" >}})
