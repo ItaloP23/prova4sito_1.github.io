@@ -38,7 +38,8 @@ disqusShortname = "bento-hugo-theme"
 
   # Image in the homepage. You can setup a different image for social media
   # cover = "images/vancouver.jpg" (originale)
-  cover = "images/granParadiso.jpg"
+  # cover = "images/granParadiso.jpg"
+  cover = "https://res.cloudinary.com/uphill/image/upload/c_scale,w_1800/v1626198456/Copertina/granParadiso_eyr5xk.jpg"
 
   ogImage = "images/og_image.jpg"
 
@@ -57,7 +58,7 @@ disqusShortname = "bento-hugo-theme"
 
   # Avatar (shown in the homepage)
   # avatar = "images/avatar.jpg"
-  avatar = "images/avatar1.jpg"
+  avatar = "https://res.cloudinary.com/uphill/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1626200781/avatar/GOPR0808_1561643587228_high_yghzu7.jpg"
   # Bio is shown in the end of posts
   authorBio = "Bento is a doggo who likes to code."
 
