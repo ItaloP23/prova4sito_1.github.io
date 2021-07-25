@@ -13,6 +13,11 @@ hideSuggestions = "true"
 
 Al momento insegnante (precario) nella Bergamasca, trent(atr)enne. Amo viaggiare e fare sport, più di tutto andare in bicicletta ma anche corsa, trekking e il contatto con la natura.
 
+<div class="full-width">
+  <img src="https://res.cloudinary.com/uphill/image/upload/v1627065185/About/20180818_163130_HDR_1_dnwkq7.jpg" alt="Islanda_bici" />
+</div>
+
+
 Questo sito nasce per qualche motivo. Innanzitutto per colmare quel vuoto che sempre più spesso, specialmente nel letto prima di prendere sonno, mi tormenta: i ricordi. Non è che ho un vuoto di memoria per fortuna, il problema è che talvolta cerco di ricostruire qualche esperienza passata ma ho dei vuoti, dei periodi che inevitabilmente dimentichiamo o semplicemente sono sommersi nella memoria. Questi vuoti che ci portano alle classiche "Com'è volato il tempo!" (anche se relativo, il tempo non *vola* se lo riempi con qualcosa che sicuramente hai fatto) oppure "cosa ho fatto dai *x* ai *y* anni/mesi/giorni?" (qualcosa avrò pur fatto). Per cui voglio iniziare a scrivere un po' per aiutarmi a ricordare le cose che faccio e che ho fatto, quelle più importanti (per me) almeno. Un blog e nient'altro, non l'ho fatto ai tempi di Myspace quando avevo 15 anni, lo faccio ora per recuperare.
 
 Questo sito nasce anche per avere uno spazio mio, lontano dagli standard convenzionali dei social pilotati, una piccola nicchia nell'immenso spazio di internet dove posso scrivere e pubblicare quello che voglio, nella forma che voglio. Un "luogo" accessibile a chiunque nel quale però, probabilmente, giungeranno solo persone interessate, che magari non scrolleranno la pagina in maniera disinteressata come accade la mattina mentre bevono il caffè con le storie di Instagram.

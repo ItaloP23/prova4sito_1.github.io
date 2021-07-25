@@ -10,6 +10,9 @@ copyright = "MIT"
 category = "categories"
 tag = "tags"
 
+# Emoji
+enableEmoji= "true"
+
 # Better code higlighting
 # via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3
 pygmentsCodefences = true
